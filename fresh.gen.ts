@@ -8,8 +8,7 @@ import * as $1 from "./routes/api/joke.ts";
 import * as $2 from "./routes/authenticated/index.tsx";
 import * as $3 from "./routes/index.tsx";
 import * as $$0 from "./islands/ChromeWebstoreAuth.tsx";
-import * as $$1 from "./islands/Counter.tsx";
-import * as $$2 from "./islands/Navigation.tsx";
+import * as $$1 from "./islands/Navigation.tsx";
 
 const manifest = {
   routes: {
@@ -20,8 +19,7 @@ const manifest = {
   },
   islands: {
     "./islands/ChromeWebstoreAuth.tsx": $$0,
-    "./islands/Counter.tsx": $$1,
-    "./islands/Navigation.tsx": $$2,
+    "./islands/Navigation.tsx": $$1,
   },
   baseUrl: import.meta.url,
   config,

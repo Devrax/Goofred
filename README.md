@@ -1,11 +1,3 @@
-# fresh project
+# Goofred
 
-### Usage
-
-Start the project:
-
-```
-deno task start
-```
-
-This will watch the project directory and restart as necessary.
+### ⚠️ Working on this project for managing my extensions on [Chrome webstore](https://developer.chrome.com/docs/webstore/api_index/) 👷🏻‍♂️🛠
